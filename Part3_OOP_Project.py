@@ -1,5 +1,5 @@
 #####################################
-### WELCOME TO YOUR OOP PROJECT #####
+### WELCOME  #####
 #####################################
 
 # For this project you will be using OOP to create a card game. This card game will
